@@ -66,6 +66,7 @@ body{
   
 #plush{
     height: 250px;
+    padding-left: 100px;
 }
 #scarf{
     height: 200px;
@@ -75,8 +76,11 @@ body{
 }
 #birthday{
     width: 550px;
+    padding-left: 50px;
 }
-
+#mug{
+    height: 225px;
+}
 #tile{
     width: 500px;
 }
